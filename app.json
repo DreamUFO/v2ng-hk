@@ -11,12 +11,12 @@
       "required": true
     },
     "UUID": {
-      "description": "用户的主ID",
+      "description": "用户的主ID,可生成UUID的网站: https://www.uuidgenerator.net",
       "value": "",
       "required": false
     },
     "WS_PATH": {
-      "description": "websocket路径",
+      "description": "websocket路径,可填写UUID",
       "value": "/ray",
       "required": true
     }
