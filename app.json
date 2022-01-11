@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/verice30/v2ray_heroku-New",
-  "repository": "https://github.com/verice30/v2ray_heroku-New",
+  "website": "https://github.com/DreamUFO/v2ng-hk",
+  "repository": "https://github.com/DreamUFO/v2ng-hk",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
