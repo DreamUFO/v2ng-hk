@@ -1,5 +1,6 @@
 server {
   listen $PORT default_server;
+  error_log  logs/error.log;
 
   location / {
     root   /usr/share/nginx/html/index;
